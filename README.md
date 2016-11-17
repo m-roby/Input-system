@@ -9,7 +9,7 @@ input system supporting Xbox 360 and KB/M
 
 -can track duration of button and axis input events
 
--delagates bult in for easy use with state machines
+-delagates built in for easy use with state machines
 
 -Rumble support
 
